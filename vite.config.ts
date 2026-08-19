@@ -5,7 +5,7 @@ import { defineConfig } from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: '/NiniloveV1/',
+    base: '/MAGIC-NINILOVE/',
 
     plugins: [react(), tailwindcss()],
 
